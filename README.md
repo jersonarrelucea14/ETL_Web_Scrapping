@@ -11,8 +11,6 @@
 **Pipeline ETL completo que extrae datos de población mundial desde Wikipedia,
 los transforma con Pandas y los visualiza en un dashboard interactivo con Plotly Dash.**
 
-[Ver Repositorio](https://github.com/jersonarrelucea14/ETL_Web_Scrapping) · [Reportar Bug](https://github.com/jersonarrelucea14/ETL_Web_Scrapping/issues) · [Solicitar Feature](https://github.com/jersonarrelucea14/ETL_Web_Scrapping/issues)
-
 </div>
 
 ---
